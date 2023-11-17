@@ -92,7 +92,8 @@ else
 ![image](https://github.com/Dhanushpraboo/Interfacing-IR-sensor/assets/94426323/65bae219-1abe-4544-a91b-2d577f5dcb48)
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/Dhanushpraboo/Interfacing-IR-sensor/assets/94426323/e35e49ac-438f-46ae-91fa-a8b327722527)
+
 
 ## RESULT:
 Thus the IR sensor module is interfaced with Arduino UNO controller and output is verified.
